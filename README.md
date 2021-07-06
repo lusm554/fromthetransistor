@@ -9,4 +9,3 @@ Now I have a small list of languages that I need to learn during the course:
 - Haskell
 
 Looks really interesting...
-hello
