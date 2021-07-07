@@ -16,5 +16,9 @@ _FILE=`basename ${1%.*}`
 FILE="${CURR_DIR}/out/${_FILE}.out"
 mkdir -p "${CURR_DIR}/out"
 
-iverilog -o $FILE $1
-vvp $FILE
+iverilog -o $FILE $1 || {
+  exit $?
+}
+vvp $FILE || {
+  exit $?
+}
