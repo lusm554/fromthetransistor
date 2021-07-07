@@ -16,4 +16,6 @@ Looks really interesting...
 
 - icarus-verilog
 
-`brew install icarus-verilog`
+```sh
+brew install icarus-verilog
+```
