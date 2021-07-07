@@ -7,7 +7,6 @@ if [ -z "$CURR_DIR" ] ; then
 fi
 _FILE=`basename ${1%.*}`
 FILE="${CURR_DIR}/out/${_FILE}.out"
-echo $FILE
 mkdir -p "${CURR_DIR}/out"
 iverilog -o $FILE $1
 vvp $FILE
