@@ -1,4 +1,9 @@
 #!/bin/bash
+
+realpath() {
+    [[ $1 = /* ]] && echo "$1" || echo "$PWD/${1#./}"
+}
+
 CURR_DIR=$( realpath "$0" | sed 's|\(.*\)/.*|\1|' ) 
 if [ -z "$CURR_DIR" ] ; then
   # error; for some reason, the path is not accessible
