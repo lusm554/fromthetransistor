@@ -13,3 +13,16 @@ Usage:
 ```sh
 vvp hello.out
 ```
+
+## Or u can compile and run using compile.sh
+
+### How use it:
+Change permission:
+```sh
+chmod +x compile.sh
+```
+
+Run it:
+```sh
+./compile.sh hello.v
+```
