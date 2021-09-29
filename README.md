@@ -1,21 +1,32 @@
-So, I want to take a course [fromthetransistor](https://github.com/geohot/fromthetransistor).
+# fromthetransistor
 
-Of course I will need more time than 12 weeks, but I will take the course.
-Here I will keep a small account of my progress.
+A hardware, first in Python, then in Verilog, then on FPGA.
 
-## What I need
-List of languages that I need to learn during the course:
+## How to complete this course? Use this:
+- Python
 - Verilog
 - С
-- Assembler
 - Haskell
+- Assembler
 
-Looks really interesting...
+## Source
+@geohot
+[fromthetransistor](https://github.com/geohot/fromthetransistor).
 
-## Prerequisites
+## Getting started
 
+### Prerequisites
 - icarus-verilog
 
-```sh
+```shell
 brew install icarus-verilog
 ```
+
+### If you wanna try
+
+1. Clone repo
+```shell
+git clone https://github.com/lusm554/fromthetransistor.git
+cd fromthetransistor
+```
+
