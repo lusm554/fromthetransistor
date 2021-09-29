@@ -10,7 +10,6 @@ A hardware, first in Python, then in Verilog, then on FPGA.
 - Assembler
 
 ## Source
-@geohot
 [fromthetransistor](https://github.com/geohot/fromthetransistor).
 
 ## Getting started
