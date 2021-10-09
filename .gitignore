@@ -2,3 +2,4 @@
 out
 .*.swp
 *.vcd
+__pycache__
