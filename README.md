@@ -1,4 +1,4 @@
-# fromthetransistor
+# Fromthetransistor
 
 Welcome to "From the Transistor to the Web Browser", a project dedicated to building a computer system entirely from scratch. We begin by exploring digital logic and simulating hardware components using Verilog, including an ARM CPU. Next, we develop essential software tools like an assembler, a linker, and a C compiler (in Haskell). Building upon this foundation, we create a basic Unix-like operating system kernel and implement a TCP/IP networking stack in C. The final goal is to run a custom-built, text-based web browser on our own hardware and software stack, providing a deep understanding of how computers truly work.
 
