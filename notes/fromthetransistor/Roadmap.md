@@ -1,4 +1,5 @@
 
+Additional video - [[George Hotz From the Transistor- Xilinx on MAC]]
 
 **Section 1: Intro: Cheating our way past the transistor (0.5 недели)**
 - **Цели:** Понять концептуально, как транзисторы используются для создания логики, что такое FPGA (ПЛИС) и LUT, как работает эмуляция железа.

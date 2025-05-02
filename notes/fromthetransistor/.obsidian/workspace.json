@@ -11,14 +11,10 @@
             "id": "d09aafdd1229ded4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Section 1 - Intro Cheating our way past the transistor/Making logic gates from transistors.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Making logic gates from transistors"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -170,11 +166,18 @@
   },
   "active": "d09aafdd1229ded4",
   "lastOpenFiles": [
-    "Section 1 - Intro Cheating our way past the transistor/Section 1 - Intro Cheating our way past the transistor.md",
-    "Section 1 - Intro Cheating our way past the transistor/Making logic gates from transistors.md",
-    "Section 1 - Intro Cheating our way past the transistor/Книга \"Code - The Hidden Language of Computer Hardware and Software\".md",
-    "Roadmap.md",
     "Index.md",
+    "Tools/Tools.md",
+    "Tools/GHDL - VHDL simulator.md",
+    "Section 1 - Intro Cheating our way past the transistor/Section 1 - Intro Cheating our way past the transistor.md",
+    "Tools",
+    "Section 1 - Intro Cheating our way past the transistor/Каналы по FPGA.md",
+    "Section 1 - Intro Cheating our way past the transistor/Introduction to FPGA YouTube Playlist.md",
+    "Section 1 - Intro Cheating our way past the transistor/Книга \"Code - The Hidden Language of Computer Hardware and Software\".md",
+    "Section 1 - Intro Cheating our way past the transistor/Untitled",
+    "Roadmap.md",
+    "George Hotz From the Transistor- Xilinx on MAC.md",
+    "Section 1 - Intro Cheating our way past the transistor/Making logic gates from transistors.md",
     "Section 1 - Intro Cheating our way past the transistor",
     "Welcome.md"
   ]
