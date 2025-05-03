@@ -10,14 +10,37 @@
           {
             "id": "d09aafdd1229ded4",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Section 1 - Intro Cheating our way past the transistor/Книга \"Code - The Hidden Language of Computer Hardware and Software\".md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Книга \"Code - The Hidden Language of Computer Hardware and Software\""
+            }
+          },
+          {
+            "id": "bce7bab09b66bdd4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section 2 - What language is hardware coded in/Книга \"Цифровая схемотехника и архитектура компьютера. Дополнение по архитектуре ARM\".md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Книга \"Цифровая схемотехника и архитектура компьютера. Дополнение по архитектуре ARM\""
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,8 +187,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d09aafdd1229ded4",
+  "active": "bce7bab09b66bdd4",
   "lastOpenFiles": [
+    "Section 1 - Intro Cheating our way past the transistor/Книга \"Code - The Hidden Language of Computer Hardware and Software\".md",
+    "Section 2 - What language is hardware coded in/Книга \"Цифровая схемотехника и архитектура компьютера. Дополнение по архитектуре ARM\".md",
+    "Section 2 - What language is hardware coded in/Section 2 - What language is hardware coded in.md",
+    "Section 2 - What language is hardware coded in",
     "Index.md",
     "Tools/Tools.md",
     "Tools/GHDL - VHDL simulator.md",
@@ -173,7 +200,6 @@
     "Tools",
     "Section 1 - Intro Cheating our way past the transistor/Каналы по FPGA.md",
     "Section 1 - Intro Cheating our way past the transistor/Introduction to FPGA YouTube Playlist.md",
-    "Section 1 - Intro Cheating our way past the transistor/Книга \"Code - The Hidden Language of Computer Hardware and Software\".md",
     "Section 1 - Intro Cheating our way past the transistor/Untitled",
     "Roadmap.md",
     "George Hotz From the Transistor- Xilinx on MAC.md",
