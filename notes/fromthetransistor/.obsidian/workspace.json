@@ -97,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 246.5
   },
   "right": {
     "id": "419af0828b554b2a",
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Section 2 - What language is hardware coded in/Книга \"Цифровая схемотехника и архитектура компьютера. Дополнение по архитектуре ARM\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Книга \"Цифровая схемотехника и архитектура компьютера. Дополнение по архитектуре ARM\""
             }
           },
           {
@@ -161,21 +161,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Section 2 - What language is hardware coded in/Книга \"Цифровая схемотехника и архитектура компьютера. Дополнение по архитектуре ARM\".md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Книга \"Цифровая схемотехника и архитектура компьютера. Дополнение по архитектуре ARM\""
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,10 +187,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bce7bab09b66bdd4",
+  "active": "5ba5e3ff489f5b0b",
   "lastOpenFiles": [
-    "Section 1 - Intro Cheating our way past the transistor/Книга \"Code - The Hidden Language of Computer Hardware and Software\".md",
+    "Untitled.canvas",
     "Section 2 - What language is hardware coded in/Книга \"Цифровая схемотехника и архитектура компьютера. Дополнение по архитектуре ARM\".md",
+    "2025-05-05.md",
+    "Section 1 - Intro Cheating our way past the transistor/Книга \"Code - The Hidden Language of Computer Hardware and Software\".md",
     "Section 2 - What language is hardware coded in/Section 2 - What language is hardware coded in.md",
     "Section 2 - What language is hardware coded in",
     "Index.md",
