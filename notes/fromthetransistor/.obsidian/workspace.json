@@ -97,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 338.5
   },
   "right": {
     "id": "419af0828b554b2a",
@@ -187,10 +187,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ba5e3ff489f5b0b",
+  "active": "bce7bab09b66bdd4",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "static/Книга \"Цифровая схемотехника и архитектура компьютера. Дополнение по архитектуре ARM\"/single-cycle-processor/b-command-single-cycle-processor-datapath.png",
+    "static/Книга \"Цифровая схемотехника и архитектура компьютера. Дополнение по архитектуре ARM\"/single-cycle-processor/data-process-commands-scalar-value-single-cycle-processor-datapath.png",
+    "static/Книга \"Цифровая схемотехника и архитектура компьютера. Дополнение по архитектуре ARM\"/single-cycle-processor/ldr-single-cycle-processor-datapath.png",
     "Section 2 - What language is hardware coded in/Книга \"Цифровая схемотехника и архитектура компьютера. Дополнение по архитектуре ARM\".md",
+    "George Hotz From the Transistor- Xilinx on MAC.md",
+    "static/Книга \"Цифровая схемотехника и архитектура компьютера. Дополнение по архитектуре ARM\"/single-cycle-processor/data-process-commands-register-value-single-cycle-processor-datapath.png",
+    "static/Книга \"Цифровая схемотехника и архитектура компьютера. Дополнение по архитектуре ARM\"/single-cycle-processor",
+    "static/Книга \"Цифровая схемотехника и архитектура компьютера. Дополнение по архитектуре ARM\"/single-cycle-processor/str-single-cycle-processor-datapath.png",
+    "static/Книга \"Цифровая схемотехника и архитектура компьютера. Дополнение по архитектуре ARM\"",
+    "static/Книга \"Цифровая схемотехника и архитектура компьютера. Дополнение по архитектуре ARM\"/single-cycle-processor/single-cycle-processor-datapath.png",
+    "static",
+    "Untitled.canvas",
     "2025-05-05.md",
     "Section 1 - Intro Cheating our way past the transistor/Книга \"Code - The Hidden Language of Computer Hardware and Software\".md",
     "Section 2 - What language is hardware coded in/Section 2 - What language is hardware coded in.md",
@@ -204,7 +214,6 @@
     "Section 1 - Intro Cheating our way past the transistor/Introduction to FPGA YouTube Playlist.md",
     "Section 1 - Intro Cheating our way past the transistor/Untitled",
     "Roadmap.md",
-    "George Hotz From the Transistor- Xilinx on MAC.md",
     "Section 1 - Intro Cheating our way past the transistor/Making logic gates from transistors.md",
     "Section 1 - Intro Cheating our way past the transistor",
     "Welcome.md"
