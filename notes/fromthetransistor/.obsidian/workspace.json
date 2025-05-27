@@ -40,7 +40,7 @@
             }
           },
           {
-            "id": "6b39ba48310e7658",
+            "id": "a31a2411b4791c9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -201,8 +201,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b39ba48310e7658",
+  "active": "a31a2411b4791c9c",
   "lastOpenFiles": [
+    "Section 2 - What language is hardware coded in/a.out",
+    "Section 2 - What language is hardware coded in/test.v",
+    "Section 2 - What language is hardware coded in/arbiter.v",
     "Section 2 - What language is hardware coded in/Книга \"Цифровая схемотехника и архитектура компьютера. Дополнение по архитектуре ARM\".md",
     "Section 1 - Intro Cheating our way past the transistor/Книга \"Code - The Hidden Language of Computer Hardware and Software\".md",
     "Section 2 - What language is hardware coded in/ASIC World Verilog Tutorial.md",
