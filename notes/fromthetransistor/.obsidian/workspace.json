@@ -42,6 +42,7 @@
           {
             "id": "a31a2411b4791c9c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -49,6 +50,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "ASIC World Verilog Tutorial"
             }
@@ -203,15 +205,17 @@
   },
   "active": "a31a2411b4791c9c",
   "lastOpenFiles": [
+    "Section 2 - What language is hardware coded in/mux4to1.v",
+    "Section 2 - What language is hardware coded in/4to1mux.v",
+    "Roadmap.md",
+    "Section 2 - What language is hardware coded in/ASIC World Verilog Tutorial.md",
+    "Section 2 - What language is hardware coded in/arbiter.v",
+    "Section 2 - What language is hardware coded in/Section 2 - What language is hardware coded in.md",
+    "Section 2 - What language is hardware coded in/Книга \"Цифровая схемотехника и архитектура компьютера. Дополнение по архитектуре ARM\".md",
     "Section 2 - What language is hardware coded in/a.out",
     "Section 2 - What language is hardware coded in/test.v",
-    "Section 2 - What language is hardware coded in/arbiter.v",
-    "Section 2 - What language is hardware coded in/Книга \"Цифровая схемотехника и архитектура компьютера. Дополнение по архитектуре ARM\".md",
     "Section 1 - Intro Cheating our way past the transistor/Книга \"Code - The Hidden Language of Computer Hardware and Software\".md",
-    "Section 2 - What language is hardware coded in/ASIC World Verilog Tutorial.md",
-    "Section 2 - What language is hardware coded in/Section 2 - What language is hardware coded in.md",
     "Section 1 - Intro Cheating our way past the transistor/Section 1 - Intro Cheating our way past the transistor.md",
-    "Roadmap.md",
     "George Hotz From the Transistor- Xilinx on MAC.md",
     "static/Книга \"Цифровая схемотехника и архитектура компьютера. Дополнение по архитектуре ARM\"/multi-cycle-processor",
     "static/Книга \"Цифровая схемотехника и архитектура компьютера. Дополнение по архитектуре ARM\"/single-cycle-processor/single-cycle-processor-datapath.png",
@@ -236,9 +240,7 @@
     "Tools",
     "Section 1 - Intro Cheating our way past the transistor/Каналы по FPGA.md",
     "Section 1 - Intro Cheating our way past the transistor/Introduction to FPGA YouTube Playlist.md",
-    "Section 1 - Intro Cheating our way past the transistor/Untitled",
     "Section 1 - Intro Cheating our way past the transistor/Making logic gates from transistors.md",
-    "Section 1 - Intro Cheating our way past the transistor",
     "Welcome.md"
   ]
 }
