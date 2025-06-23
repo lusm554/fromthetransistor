@@ -7,17 +7,17 @@ module mux4to1 (
     output wire y
 );
 
-    assign y = d0;
+    assign y = (sel == 2'b00) ? d0 : (sel == 2'b01) ? d1 : (sel == 2'b10) ? d2 : d3;
 
 endmodule
 
 module mux4to1_tb;
-    wire [1:0] sel;
-    wire d0, d1, d2, d3, y;
+    reg [1:0] sel;
+    reg d0, d1, d2, d3, y;
 
     initial begin
         $monitor("y=%b", y);
-        #5 assign d0 = 1;
+        #5 sel = 2'b00;
     end
 
     mux4to1 m0 (
