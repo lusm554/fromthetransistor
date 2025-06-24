@@ -4,3 +4,4 @@ out
 *.vcd
 __pycache__
 *.out
+*.vvp
